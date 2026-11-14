@@ -1,3 +1,5 @@
+**S M Rohanul Islam**
+**IT23034**
 # Number Theory and Cryptography Workshop
 **Maths and Physics Club, IIT Bombay**
 
@@ -7,30 +9,30 @@ This repository contains comprehensive study notes, mathematical proofs, algorit
 
 ## Table of Contents
 * **Day 0: Foundations of Number Theory & Modular Arithmetic**
-  * [0.1 Division with Remainder & Divisibility by 3](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=day0-divisibility)[cite: 336, 444]
-  * [0.2 Modular Addition & Multiplication Tables](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=day0-mod-tables)[cite: 463]
+  * [0.1 Division with Remainder & Divisibility by 3](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=btjlPY8Nedy_&line=1&uniqifier=1)
+  * [0.2 Modular Addition & Multiplication Tables](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=4YfgtamLtrxm&line=2&uniqifier=1)
 * **Day 1: Core Number-Theoretic Algorithms**
-  * [1.1 Naive GCD vs. Euclid's Algorithm](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=day1-gcd)[cite: 28, 59]
-  * [1.2 Extended Euclid's Algorithm](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=day1-extended-gcd)[cite: 28, 83]
-  * [1.3 Least Common Multiple (Naive vs. Fast LCM)](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=day1-lcm)[cite: 86, 96]
-  * [1.4 Fast Modular Exponentiation](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=day1-fast-mod-exp)[cite: 242]
-  * [1.5 Euler's Totient Function](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=day1-totient)[cite: 314]
+  * [1.1 Naive GCD vs. Euclid's Algorithm](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=CX7X5RX_tw7w&line=2&uniqifier=1)
+  * [1.2 Extended Euclid's Algorithm](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=66CfjFNet58F&line=1&uniqifier=1)
+  * [1.3 Least Common Multiple (Naive vs. Fast LCM)](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=K7uziNd-t-N7&line=2&uniqifier=1)
+  * [1.4 Fast Modular Exponentiation](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=mPw-0Yu4uFsc&line=2&uniqifier=1)
+  * [1.5 Euler's Totient Function](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=AvNquistuJdD&line=2&uniqifier=1)
 * **Day 2: Prime Numbers, Primality Testing & Conjectures**
-  * [2.1 Sieve of Eratosthenes & Wheel Factorization (Mod 30)](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=day2-sieve-wheel)[cite: 3, 16]
-  * [2.2 Fermat Primality Test & Carmichael Numbers](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=day2-fermat-carmichael)[cite: 17, 19]
-  * [2.3 Lucas-Lehmer Primality Test (Mersenne Primes)](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=day2-lucas-lehmer)[cite: 24, 25]
-  * [2.4 Antiprimes (Highly Composite Numbers)](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=day2-antiprimes)[cite: 26]
+  * [2.1 Sieve of Eratosthenes & Wheel Factorization (Mod 30)](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=I1m60_2QuPfT&line=2&uniqifier=1)
+  * [2.2 Fermat Primality Test & Carmichael Numbers](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=vgdbfUpquVzt&line=2&uniqifier=1)
+  * [2.3 Lucas-Lehmer Primality Test (Mersenne Primes)](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=ARu_rY-dub7d&line=2&uniqifier=1)
+  * [2.4 Antiprimes (Highly Composite Numbers)](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=P8nldfClueM_&line=2&uniqifier=1)
 * **Day 1 Assignment: Algorithmic Implementations**
-  * [A1.1 Problem 1: Extended Euclid's Algorithm](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=a1-extended-gcd)[cite: 2]
-  * [A1.2 Problem 2: Least Common Multiple](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=a1-lcm)[cite: 2]
-  * [A1.3 Problem 3: Linear Diophantine Equations](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=a1-diophantine)[cite: 2]
-  * [A1.4 Problem 4: Modular Multiplicative Inverse & Division](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=a1-mod-division)[cite: 2]
-  * [A1.5 Problem 5: Fast Modular Exponentiation](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=a1-fast-mod-exp)[cite: 2]
-  * [A1.6 Problem 6: Chinese Remainder Theorem](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=a1-crt)[cite: 2]
+  * [A1.1 Problem 1: Extended Euclid's Algorithm](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=AGL89HnavtGX&line=4&uniqifier=1)
+  * [A1.2 Problem 2: Least Common Multiple](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=lXh_BhvCvv8W&line=2&uniqifier=1)
+  * [A1.3 Problem 3: Linear Diophantine Equations](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=hmVV3lxCv16K&line=2&uniqifier=1)
+  * [A1.4 Problem 4: Modular Multiplicative Inverse & Division](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=ZkoracjKv6WD&line=2&uniqifier=1)
+  * [A1.5 Problem 5: Fast Modular Exponentiation](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=UYCeORjFv9ra&line=2&uniqifier=1)
+  * [A1.6 Problem 6: Chinese Remainder Theorem](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=9xwbHXX7wC0c&line=2&uniqifier=1)
 * **Day 2 Assignment: Theoretical & Computational Verification**
-  * [A2.1 Problem 1: Repunits & Set A_p](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=a2-repunits)[cite: 1]
-  * [A2.2 Problem 2: Even Perfect Numbers (Euclid-Euler)](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=a2-perfect-numbers)[cite: 1]
-  * [A2.3 Problem 3: Generating Fermat Pseudoprimes Base a](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=a2-pseudoprimes)[cite: 1]
+  * [A2.1 Problem 1: Repunits & Set A_p](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=pnUFDA2-wFj1&line=2&uniqifier=1)
+  * [A2.2 Problem 2: Even Perfect Numbers (Euclid-Euler)](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=aBKXzhM-wJ8A&line=2&uniqifier=1)
+  * [A2.3 Problem 3: Generating Fermat Pseudoprimes Base a](https://colab.research.google.com/drive/19MBD93JV4i1dj970PRBe-xL7g3mZWgD0#scrollTo=xZ93bZB3wMo-&line=2&uniqifier=1)
 
 ---
 
