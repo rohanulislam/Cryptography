@@ -1,5 +1,6 @@
-**S M Rohanul Islam**
-**IT23034**
+##S M Rohanul Islam##
+---
+##IT23034##
 # Number Theory and Cryptography Workshop
 **Maths and Physics Club, IIT Bombay**
 
