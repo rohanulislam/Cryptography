@@ -1,6 +1,7 @@
-#S M Rohanul Islam
+# S. M. Rohanul Islam
+## Student ID: 23034 | Department of ICT, MBSTU
+
 ---
-##IT23034
 # Number Theory and Cryptography Workshop
 **Maths and Physics Club, IIT Bombay**
 
