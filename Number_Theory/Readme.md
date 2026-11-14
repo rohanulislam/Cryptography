@@ -1,5 +1,5 @@
 # S. M. Rohanul Islam
-## Student ID: IT23034 | Department of ICT, MBSTU
+## ID: IT23034 | Department of ICT, MBSTU
 
 ---
 # Number Theory and Cryptography Workshop
